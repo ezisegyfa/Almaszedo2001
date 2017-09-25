@@ -1,0 +1,9 @@
+c:\users\istvan\documents\visual studio 2015\Projects\TurnBasedTableStrategyGame\TurnBasedTableStrategyGame\bin\Debug\TurnBasedTableStrategyGame.exe.config
+C:\Users\Istvan\documents\visual studio 2015\Projects\TurnBasedTableStrategyGame\TurnBasedTableStrategyGame\obj\Debug\TurnBasedTableStrategyGame.csprojResolveAssemblyReference.cache
+C:\Users\Istvan\documents\visual studio 2015\Projects\TurnBasedTableStrategyGame\TurnBasedTableStrategyGame\obj\Debug\TurnBasedTableStrategyGame.Form1.resources
+C:\Users\Istvan\documents\visual studio 2015\Projects\TurnBasedTableStrategyGame\TurnBasedTableStrategyGame\obj\Debug\TurnBasedTableStrategyGame.Properties.Resources.resources
+C:\Users\Istvan\documents\visual studio 2015\Projects\TurnBasedTableStrategyGame\TurnBasedTableStrategyGame\obj\Debug\TurnBasedTableStrategyGame.csproj.GenerateResource.Cache
+C:\Users\Istvan\documents\visual studio 2015\Projects\TurnBasedTableStrategyGame\TurnBasedTableStrategyGame\bin\Debug\TurnBasedTableStrategyGame.exe
+C:\Users\Istvan\documents\visual studio 2015\Projects\TurnBasedTableStrategyGame\TurnBasedTableStrategyGame\bin\Debug\TurnBasedTableStrategyGame.pdb
+C:\Users\Istvan\documents\visual studio 2015\Projects\TurnBasedTableStrategyGame\TurnBasedTableStrategyGame\obj\Debug\TurnBasedTableStrategyGame.exe
+C:\Users\Istvan\documents\visual studio 2015\Projects\TurnBasedTableStrategyGame\TurnBasedTableStrategyGame\obj\Debug\TurnBasedTableStrategyGame.pdb
